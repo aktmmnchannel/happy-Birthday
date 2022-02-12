@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-<title>HTML Tutorial</title>
+<title>Happy Birthday</title>
 <body>
 
-<h1>This is a heading</h1>
+<h1>Happy Birthday</h1>
 <p>This is a paragraph.</p>
 
 </body>
