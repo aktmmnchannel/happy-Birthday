@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<title>HTML Tutorial</title>
+<body>
 
- 
-https://youtu.be/fTbEpGZyseA
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
