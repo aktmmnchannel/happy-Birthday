@@ -1,1 +1,1 @@
- https://aktmmnchannel.github.io/happy-Birthday/
+ https://aktmmnchannel.github.io/Happy-Birthday/
